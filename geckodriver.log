@@ -22,3 +22,59 @@ console.warn: services.settings: main/language-dictionaries sync interrupted by 
 console.warn: services.settings: main/password-recipes sync interrupted by shutdown
 console.warn: services.settings: main/password-rules sync interrupted by shutdown
 console.error: (new AbortError("IndexedDB: main/translations-identification-models getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+1719446731281	geckodriver	INFO	Listening on 127.0.0.1:60887
+1719446732354	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "52763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJM2ipc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+1719446736659	Marionette	INFO	Marionette enabled
+1719446736962	Marionette	INFO	Listening on port 36333
+Read port: 36333
+WebDriver BiDi listening on ws://127.0.0.1:52763
+1719446737212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52763/devtools/browser/a6e297bb-b1e7-4431-808a-d4f8462ec94f
+1719446915406	geckodriver	INFO	Listening on 127.0.0.1:59309
+1719446916361	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileC0FYks"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+1719446918749	Marionette	INFO	Marionette enabled
+1719446919025	Marionette	INFO	Listening on port 33563
+WebDriver BiDi listening on ws://127.0.0.1:37495
+Read port: 33563
+1719446919440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37495/devtools/browser/30cc1c9a-729e-40d2-a507-48572fef8f1b
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1719446948333	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.estantevirtual.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.estantevirtual.com.br."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1719447046671	Marionette	INFO	Stopped listening on port 33563
+1719447047857	geckodriver	INFO	Listening on 127.0.0.1:44237
+1719447048419	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefa730h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+1719447049860	Marionette	INFO	Marionette enabled
+1719447049991	Marionette	INFO	Listening on port 45743
+WebDriver BiDi listening on ws://127.0.0.1:34769
+Read port: 45743
+1719447050310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34769/devtools/browser/9843090c-e084-4dfc-be59-f0279de6ddf8
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1719447079886	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
