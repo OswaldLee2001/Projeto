@@ -78,3 +78,82 @@ console.error: ({})
 DevTools listening on ws://127.0.0.1:34769/devtools/browser/9843090c-e084-4dfc-be59-f0279de6ddf8
 console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
 1719447079886	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1719447365811	geckodriver	INFO	Listening on 127.0.0.1:49053
+1719447366706	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNqTMne"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719447367827	Marionette	INFO	Stopped listening on port 45743
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+1719447369793	Marionette	INFO	Marionette enabled
+1719447370010	Marionette	INFO	Listening on port 36511
+Read port: 36511
+WebDriver BiDi listening on ws://127.0.0.1:45721
+1719447370169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45721/devtools/browser/e2f01b8d-f02e-4625-853a-006ec1e6afad
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1719447399807	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1719447519074	Marionette	INFO	Stopped listening on port 36511
+1719447523864	geckodriver	INFO	Listening on 127.0.0.1:42427
+1719447523940	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecBveSw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+1719447525271	Marionette	INFO	Marionette enabled
+1719447525397	Marionette	INFO	Listening on port 39685
+WebDriver BiDi listening on ws://127.0.0.1:48917
+Read port: 39685
+1719447525743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48917/devtools/browser/fd38c7fb-f01e-448d-bc03-be097a6431d2
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1719447555314	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1719447623407	geckodriver	INFO	Listening on 127.0.0.1:45919
+1719447623970	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47901" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilev6j7Dg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719447625893	Marionette	INFO	Stopped listening on port 39685
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+1719447626157	Marionette	INFO	Marionette enabled
+1719447626361	Marionette	INFO	Listening on port 35401
+Read port: 35401
+WebDriver BiDi listening on ws://127.0.0.1:47901
+1719447626610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47901/devtools/browser/757dbb96-fdb2-476f-bb48-d4c118b057ae
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1719447656181	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1719447666936	Marionette	INFO	Stopped listening on port 35401
+1719447790888	geckodriver	INFO	Listening on 127.0.0.1:48361
+1719447790938	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHRzFFw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+1719447792197	Marionette	INFO	Marionette enabled
+1719447792324	Marionette	INFO	Listening on port 34847
+Read port: 34847
+WebDriver BiDi listening on ws://127.0.0.1:58873
+1719447792450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58873/devtools/browser/aaa56b29-4967-44a5-a714-2e2fbfa610de
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.estantevirtual.com.br."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1719447822832	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: https://www.estantevirtual.com.br/busca?q=Meridiano%20de%20Sangue line 756 > injectedScript, line 3: TypeError: this.previousElementSibling is undefined
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1999: TypeError: currentPanel is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://5944488p.ha.azioncdn.net/ev-front/builds/production/341ba722/app.341ba722.js, line 1: ReferenceError: newrelic is not defined
+JavaScript error: https://static.smarthint.co/Scripts/i/SmartHint.Full.min.js?v=1 line 1 > eval, line 8: TypeError: jQuery(...).owlCarousel is not a function
+JavaScript error: https://5944488p.ha.azioncdn.net/ev-front/builds/production/341ba722/pages/livros/_autor/_titulo/_codigo/index.341ba722.js, line 1: TypeError: this.livros is null
+JavaScript error: https://5944488p.ha.azioncdn.net/ev-front/builds/production/341ba722/pages/busca/index/pages/editora/_editora/pages/editora/index/pages/estante/_estante/index/pages/esta/65254770.341ba722.js, line 1: TypeError: e.sent.noticeError is not a function
