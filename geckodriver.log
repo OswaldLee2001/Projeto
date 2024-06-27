@@ -1,0 +1,24 @@
+1719446272768	geckodriver	INFO	Listening on 127.0.0.1:46347
+1719446273739	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexEL2Ci"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+1719446276513	Marionette	INFO	Marionette enabled
+1719446276795	Marionette	INFO	Listening on port 46659
+WebDriver BiDi listening on ws://127.0.0.1:53893
+Read port: 46659
+1719446277294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53893/devtools/browser/967f200d-5502-4a9f-b504-4a86f78a04b5
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1719446306803	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1719446357575	Marionette	INFO	Stopped listening on port 46659
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/translations-identification-models getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
